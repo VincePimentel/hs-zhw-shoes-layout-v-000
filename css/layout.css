@@ -37,7 +37,3 @@
 .last {
   float: right;
 }
-
-[class*="col-"] {
-  margin: 0 auto;
-}
