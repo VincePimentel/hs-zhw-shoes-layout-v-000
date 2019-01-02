@@ -33,13 +33,9 @@
 }
 
 .col-3 {
-  width: 31%;
+  width: 30%;
 }
 
 .first {
   float: left;
-}
-
-.last {
-  float: right;
 }
