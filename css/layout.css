@@ -38,6 +38,10 @@
   float: right;
 }
 
+#featured {
+  margin-bottom: 20px;
+}
+
 #deals {
   margin-top: 20px;
 }
