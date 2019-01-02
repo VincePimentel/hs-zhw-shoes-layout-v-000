@@ -34,6 +34,10 @@
   width: 33%;
 }
 
+.float-right {
+  float: right;
+}
+
 .pad-left {
   padding-left: 20px;
 }
