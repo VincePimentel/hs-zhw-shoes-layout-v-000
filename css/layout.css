@@ -30,8 +30,10 @@
 
 .col-2 {
   width: 66%;
+  float: left;
 }
 
 .col-3 {
   width: 33%;
+  float: left;
 }
