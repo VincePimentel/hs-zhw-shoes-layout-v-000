@@ -35,6 +35,7 @@
 .col-3 {
   width: 33%;
   float: left;
+  height: 100%;
 }
 
 .first {
