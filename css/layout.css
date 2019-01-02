@@ -30,14 +30,16 @@
 
 .col-2 {
   width: 64%;
-  float: left;
 }
 
 .col-3 {
   width: 31%;
-  float: left;
 }
 
 .first {
-  margin: 0 20px 0 0;
+  float: left;
+}
+
+.last {
+  float: right;
 }
