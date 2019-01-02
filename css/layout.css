@@ -30,6 +30,14 @@
 }
 
 .col-3 {
-  
+  float: left;
   width: 33%;
+}
+
+.first {
+  margin-right: 20px;
+}
+
+.last {
+  margin: 0;
 }
