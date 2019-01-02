@@ -38,6 +38,6 @@
   float: right;
 }
 
-#deals {
-  margin; 0 auto;
+[class*="col-"] {
+  margin: 0 auto;
 }
