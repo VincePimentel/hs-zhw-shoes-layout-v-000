@@ -33,9 +33,9 @@
 }
 
 .col-3 {
+  display: block;
   width: 33%;
   float: left;
-  height: 100%;
 }
 
 .first {
