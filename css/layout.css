@@ -23,3 +23,7 @@
 }
 
 /* Positioning Classes */
+
+.col-3 {
+  width: 30%;
+}
