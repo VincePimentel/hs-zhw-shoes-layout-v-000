@@ -37,3 +37,7 @@
 .last {
   float: right;
 }
+
+#deals {
+  margin-top: 20px;
+}
