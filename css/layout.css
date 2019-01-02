@@ -27,5 +27,8 @@
 .col-3 {
   float: left;
   width: 30%;
+}
+
+.pad-left {
   padding-left: 20px;
 }
