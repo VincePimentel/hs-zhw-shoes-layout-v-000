@@ -35,6 +35,10 @@
   margin: 0 auto;
 }
 
+.min-height {
+  min-height: 550px;
+}
+
 .float-right {
   float: right;
 }
