@@ -35,9 +35,10 @@
 }
 
 .first {
-  margin-right: 20px;
+  margin-right: 15px;
 }
 
 .last {
   margin: 0;
+  float: right;
 }
