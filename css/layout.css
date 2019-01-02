@@ -43,8 +43,8 @@
   float: right;
 }
 
-.pad-left {
-  padding-left: 2%;
+.pad {
+  padding: 0 2%;
 }
 
 .first {
