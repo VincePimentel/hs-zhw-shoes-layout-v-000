@@ -24,10 +24,6 @@
 
 /* Positioning Classes */
 
-#featured {
-  column-count: 2
-}
-
 .col-1 {
   width: 100%;
 }
