@@ -41,7 +41,3 @@
 .first {
   margin: 0 20px 0 0;
 }
-
-[class*="col-"] {
-  margin: 0 20px 0;
-}
