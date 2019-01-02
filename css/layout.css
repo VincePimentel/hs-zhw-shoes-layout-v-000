@@ -23,25 +23,3 @@
 }
 
 /* Positioning Classes */
-
-.col-1 {
-  width: 100%;
-}
-
-.col-2 {
-  width: 66%;
-}
-
-.col-3 {
-  display: block;
-  width: 33%;
-  float: left;
-}
-
-.first {
-  float: left;
-}
-
-.last {
-  float: right;
-}
