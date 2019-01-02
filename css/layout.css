@@ -47,6 +47,18 @@
   padding-left: 2%;
 }
 
+.first {
+  margin-right: 10px;
+}
+
+.second {
+  margin: 0 10px;
+}
+
+.third {
+  margin-left: 10px;
+}
+
 #deals {
   padding: 20px 0;
 }
