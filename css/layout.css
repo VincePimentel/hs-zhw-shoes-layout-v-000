@@ -39,3 +39,7 @@
 .first {
   float: left;
 }
+
+.last {
+  float: right;
+}
